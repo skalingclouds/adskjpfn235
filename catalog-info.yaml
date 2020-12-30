@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ewfasdfsdf
+  description: sadfasdf
+  annotations: 
+    github.com/project-slug: skalingclouds/adskjpfn235
+    backstage.io/github-actions-id: skalingclouds/adskjpfn235
+spec:
+  type: service
+  lifecycle: experimental
+  owner: chris
